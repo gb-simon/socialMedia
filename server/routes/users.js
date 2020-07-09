@@ -13,4 +13,4 @@ router.route('/register')
             return res.send('Ok!')
 })
 
-module.exports = router
+module.exports = router 
